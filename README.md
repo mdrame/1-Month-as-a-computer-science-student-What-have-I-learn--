@@ -21,5 +21,5 @@ BEW :
 a, Static Website <br>
 b, Git & Version Control <br>
 c, Flask Basic ( Creating & Initilazing Flask File, Route, Jinja Templates etc )<br>
-d, API ( URLs: Understanding how URL  are made throught querying string , HTTP, REST, and Readihng basic API        documentation and making APIs calls throught requests.get()
+d, API (Understa.. how url works.  Readihng API documentation and making APIs calls throught requests.get()    
 
