@@ -5,7 +5,7 @@ Am currently A junior, and so am taking 4 classes.
 ## Term One
 
 Class | Topics Learned |
-:-- | :--: | :--: | :--: | :--: | :--:
+
 [SPD ( South Porduct Development )] Product Development  | 
 [BEW ( Back End Web )] API | HTML  | CSS | Flask | Understanding how Url works ( HTTP & reading Errors ) |
 
