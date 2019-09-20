@@ -12,11 +12,11 @@ Am currently A junior, and so am taking 4 classes.
 
 ### Learned 
 
-SPD : 
+##SPD : 
       
 a, Createing required documentation to specify the design of a product, including user journeys and wireframes 🔥
       
-BEW : 
+##BEW : 
 
 a, Static Website <br>
 b, Git & Version Control <br>
