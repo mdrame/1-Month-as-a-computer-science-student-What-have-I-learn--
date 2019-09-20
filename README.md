@@ -1,13 +1,13 @@
-# The Open Source Computer Science Degree
+# 1st Month
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+Am currently A junior, and so am taking 4 classes.
 
-## Computer Science Basics
+## Term One
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
+Class | Topics Learned |
 :-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
-[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+[SPD ( South Porduct Development )] Product Development  | 
+[BEW ( Back End Web )] API | HTML  | CSS | Flask | Understanding how Url works ( HTTP & reading Errors ) |
 
 ## Programming
 
