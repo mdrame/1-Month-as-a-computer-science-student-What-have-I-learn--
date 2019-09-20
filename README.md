@@ -10,13 +10,13 @@ Am currently A junior, and so am taking 4 classes.
 2. BEW [ Back End Web Web ]  ======================>  🖲
 3. Full Stack Computer Science ====================>  💻
 
-### Learned 
+## Learned 
 
-## SPD : 
+### SPD : 
       
 a, Createing required documentation to specify the design of a product, including user journeys and wireframes 🔥
       
-## BEW : 
+### BEW : 
 
 a, Static Website <br>
 b, Git & Version Control <br>
