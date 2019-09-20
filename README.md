@@ -17,8 +17,8 @@
       
 ### BEW : 
 
-* Static Website. <br>
-* Git & Version Control. <br>
+* Static Website. 
+* Git & Version Control. 
 * Flask Basic ( Creating & Initilazing Flask File, Route, Jinja Templates etc ).<br>
 * API (Understa.. how url works.  Readihng API documentation and making APIs calls throught requests.get(). 
 * MVC ( Model View Controller Design pattern ).<br>
