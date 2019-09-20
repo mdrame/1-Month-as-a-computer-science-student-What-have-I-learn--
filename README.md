@@ -19,9 +19,9 @@
 
 * Static Website. 
 * Git & Version Control. 
-* Flask Basic ( Creating & Initilazing Flask File, Route, Jinja Templates etc ).<br>
+* Flask Basic ( Creating & Initilazing Flask File, Route, Jinja Templates etc ).
 * API (Understa.. how url works.  Readihng API documentation and making APIs calls throught requests.get(). 
-* MVC ( Model View Controller Design pattern ).<br>
+* MVC ( Model View Controller Design pattern ).
 
 ### Computer Science ( Python 🐍 )
 
@@ -29,3 +29,4 @@
 * Control Flow & Lists.
 * Pseudocode & FlowChart Diagrams -> Prefer FlowChart ( easy to understand code base ).
 * Code Quality -> Variable naming, Commenting, Code Structure, Formatting, Readibility, DocStrings Etc.
+* Debugging & Testing -> using pytest / assert.
