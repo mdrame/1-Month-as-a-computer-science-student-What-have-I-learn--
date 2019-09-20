@@ -13,11 +13,13 @@ Am currently A junior, and so am taking 4 classes.
 ### Learned 
 
 SPD : 
-      a, Createing required documentation to specify the design of a product, including user journeys and wireframes 🔥
+      
+a, Createing required documentation to specify the design of a product, including user journeys and wireframes 🔥
       
 BEW : 
-      a, Static Website
-      b, Git & Version Control
-      c, Flask Basic ( Creating & Initilazing Flask File, Route, Jinja Templates etc )
-      d, API ( URLs: Understanding how URL  are made throught querying string , HTTP, REST, and Readihng basic API        documentation and making APIs calls throught requests.get()
+
+a, Static Website
+b, Git & Version Control
+c, Flask Basic ( Creating & Initilazing Flask File, Route, Jinja Templates etc )
+d, API ( URLs: Understanding how URL  are made throught querying string , HTTP, REST, and Readihng basic API        documentation and making APIs calls throught requests.get()
 
